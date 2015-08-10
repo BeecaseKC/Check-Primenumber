@@ -1,0 +1,6 @@
+c:\users\beecase\documents\visual studio 2013\Projects\prime number\prime number\bin\Debug\prime number.exe.config
+c:\users\beecase\documents\visual studio 2013\Projects\prime number\prime number\bin\Debug\prime number.exe
+c:\users\beecase\documents\visual studio 2013\Projects\prime number\prime number\bin\Debug\prime number.pdb
+c:\users\beecase\documents\visual studio 2013\Projects\prime number\prime number\obj\Debug\prime number.csprojResolveAssemblyReference.cache
+c:\users\beecase\documents\visual studio 2013\Projects\prime number\prime number\obj\Debug\prime number.exe
+c:\users\beecase\documents\visual studio 2013\Projects\prime number\prime number\obj\Debug\prime number.pdb
